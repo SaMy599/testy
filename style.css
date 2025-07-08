@@ -1,0 +1,7 @@
+.portfolio{
+    margin-top: 100px;
+   gap: 10px;
+    display: grid;
+    grid-template-columns: 1fr 463px ;
+    grid-template-rows: 1fr 555px
+}
